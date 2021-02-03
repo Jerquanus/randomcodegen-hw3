@@ -7,13 +7,11 @@ Installation:
 
 
 Usage:
-The goal was to create a functioning random code generator. 
+The goal was to practice my javascript skills by creating random code generator that takes in it's inputs via alerts. 
 
-(I had scope and array issues)
-<img src ="/.Assets/issue-1.png">
-<img src ="/.Assets/issue-2.png">
-<img src ="/.Assets/issue-3.png">
+Credits:
+Bryan Bethea 
 
-Credits: Traversy Media
 
-License: Feel free to use how you need.
+
+License: 
